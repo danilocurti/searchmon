@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <img width="400" src="./public/favicon.svg" alt="logo of awesome-vite repository">
+  <img width="150" src="./public/favicon.svg" alt="logo of searchmon repository">
   <br>
   <br>
 </p>
