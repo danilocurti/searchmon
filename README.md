@@ -18,3 +18,5 @@ npm run preview
 // Build
 npm run build
 ```
+
+![Demo](https://imgur.com/4cJxFkx)
