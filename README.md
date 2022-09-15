@@ -19,4 +19,4 @@ npm run preview
 npm run build
 ```
 
-![Demo](https://imgur.com/4cJxFkx)
+![Demo](https://media.giphy.com/media/3d2GO3w6qY729nBnVu/giphy-downsized-large.gif)
