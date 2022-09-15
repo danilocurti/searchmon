@@ -11,4 +11,10 @@
 // Run app
 npm install
 npm run dev
+
+// Preview before build
+npm run preview
+
+// Build
+npm run build
 ```
